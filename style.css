@@ -1,0 +1,19 @@
+dog{
+    height: 300px;
+    width: 500px;
+}
+
+cat{
+    height: 300px;
+    width: 500px;
+}
+
+dog-gridstyle{
+    height: 100px;
+    width: 300px;
+}
+
+cat-gridstyle{
+    height: 100px;
+    width: 300px;
+}
